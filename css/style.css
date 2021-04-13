@@ -1,0 +1,150 @@
+body {
+  margin: 0px;
+}
+
+nav {
+  text-align: right;
+  margin: 0px;
+  padding: 20px
+}
+
+input.number-field {
+  padding: 16px;
+  max-width: 50%;
+  margin: 0px auto 0px auto;
+  font-size: 25px;
+  border-radius: 20px;
+}
+
+input.roman-field {
+  padding: 16px;
+  max-width: 50%;
+  margin: 0px auto 0px auto;
+  font-size: 25px;
+  border-radius: 20px;
+}
+
+input.converted-field {
+  position: absolute;
+  left: 128%;
+  top: 43%;
+  background-color: black;
+  color: white;
+  padding: 16px;
+  max-width: 50%;
+  font-size: 25px;
+  border-radius: 20px;
+}
+
+.nav-bar {
+  margin-right: 45px;
+  margin-left: 45px;
+  text-decoration: none;
+  font-size: 29px;
+  font-family: 'Roboto', sans-serif;
+  color: #1b1717
+}
+
+.nav-bar:hover {
+  text-decoration: underline;
+}
+
+.top-nav-header {
+  width: 17%;
+  float: left;
+  position: relative;
+  font-size: 151%;
+  color: white;
+  top: -2rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+#right-bar {
+  float: right;
+  margin: 0px;
+  padding: 318px;
+}
+
+#div-convert-ntor {
+  color: #eeebdd;
+  margin: 0px;
+  width: 50%;
+  background-color: #1b1717;
+  text-align: center;
+  position: absolute;
+  padding-bottom: 29%;
+  padding-top: 25%;
+}
+
+#div-convert-rton {
+  color: #eeebdd;
+  margin: 0px;
+  width: 50%;
+  background-color: #1b1717;
+  text-align: center;
+  position: absolute;
+  padding-bottom: 29%;
+  padding-top: 25%;
+}
+
+#btn-img-convert {
+  background-color: white;
+  width: 10%;
+  border-radius: 100%;
+  background-color: white;
+  width: 10%;
+  border-radius: 100%;
+  /* left: 5px; */
+  padding: 6px;
+  position: absolute;
+  left: 94%;
+  top: 42%;
+}
+
+#btn-img-convert1 {
+  background-color: white;
+  width: 10%;
+  border-radius: 100%;
+  background-color: white;
+  width: 10%;
+  border-radius: 100%;
+  /* left: 5px; */
+  padding: 6px;
+  position: absolute;
+  left: 94%;
+  top: 42%;
+}
+
+#btn-img-change {
+  background-color: white;
+  width: 10%;
+  border-radius: 100%;
+  background-color: white;
+  width: 10%;
+  border-radius: 100%;
+  /* left: 5px; */
+  padding: 6px;
+  position: absolute;
+  left: 94%;
+  top: 42%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*<!----Code by Krupal SOlanki--->*/
